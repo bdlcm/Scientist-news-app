@@ -3,7 +3,7 @@ A news app showing current scientific publications, statistics and general news 
 
 
 
-This app is available for download at https://apps.apple.com/gr/app/scientist-app/id1501161969 for ios.
+This app is available for download on  <a href=https://apps.apple.com/gr/app/scientist-app/id1501161969> ios </a>.
  
   ![IMG_6151](https://user-images.githubusercontent.com/45096174/154261441-580192c1-324f-4c33-9e9f-d3f42886f65f.PNG)
  ![IMG_6152 2](https://user-images.githubusercontent.com/45096174/154261610-8314fdaa-0ca8-4236-91cc-507130bed073.PNG)
